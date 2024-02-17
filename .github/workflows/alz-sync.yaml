@@ -5,9 +5,8 @@ env:
   DefinitionsRootFolder: Definitions # Change this to the folder where your policy definitions are stored
 
 on:
-  workflow_dispatch
   schedule:
-   - cron 0 5 * * 6
+   - cron: '0 5 * * 6'
 
 jobs:
     sync:
