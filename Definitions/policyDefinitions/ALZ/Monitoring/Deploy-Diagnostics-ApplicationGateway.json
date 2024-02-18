@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-ApplicationGateway",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -190,5 +189,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-ApplicationGateway"
 }

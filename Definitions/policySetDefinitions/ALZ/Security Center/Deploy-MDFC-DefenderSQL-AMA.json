@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-MDFC-DefenderSQL-AMA",
   "properties": {
     "policyType": "Custom",
     "displayName": "Configure SQL VMs and Arc-enabled SQL Servers to install Microsoft Defender for SQL and AMA with a user-defined LA workspace",
@@ -230,5 +229,6 @@
       }
     ],
     "policyDefinitionGroups": null
-  }
+  },
+  "name": "Deploy-MDFC-DefenderSQL-AMA"
 }

@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-DataFactory",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -222,5 +221,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-DataFactory"
 }
