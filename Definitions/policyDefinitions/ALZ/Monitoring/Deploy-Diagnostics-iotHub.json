@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-iotHub",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -234,5 +233,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-iotHub"
 }

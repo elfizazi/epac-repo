@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-MDFC-SQL-AMA",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -168,5 +167,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-MDFC-SQL-AMA"
 }
