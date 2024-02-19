@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-ACR",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -186,5 +185,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-ACR"
 }

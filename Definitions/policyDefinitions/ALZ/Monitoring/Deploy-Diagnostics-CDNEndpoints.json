@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-CDNEndpoints",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -150,5 +149,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-CDNEndpoints"
 }
