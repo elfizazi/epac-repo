@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-VWanS2SVPNGW",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -194,5 +193,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-VWanS2SVPNGW"
 }

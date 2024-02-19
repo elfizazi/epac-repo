@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-MDFC-SQL-DefenderSQL",
   "properties": {
     "displayName": "Configure SQL Virtual Machines to automatically install Microsoft Defender for SQL",
     "policyType": "Custom",
@@ -233,5 +232,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-MDFC-SQL-DefenderSQL"
 }
