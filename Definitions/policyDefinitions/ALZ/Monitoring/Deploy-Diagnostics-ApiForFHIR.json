@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-ApiForFHIR",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -182,5 +181,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-ApiForFHIR"
 }
