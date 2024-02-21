@@ -1,5 +1,4 @@
 {
-  "name": "Audit-PublicIpAddresses-UnusedResourcesCostOptimization",
   "properties": {
     "policyType": "Custom",
     "displayName": "Unused Public IP addresses driving cost should be avoided",
@@ -82,5 +81,6 @@
         "effect": "[parameters('effect')]"
       }
     }
-  }
+  },
+  "name": "Audit-PublicIpAddresses-UnusedResourcesCostOptimization"
 }

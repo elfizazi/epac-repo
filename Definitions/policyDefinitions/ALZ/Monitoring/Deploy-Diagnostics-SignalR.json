@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-SignalR",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -178,5 +177,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-SignalR"
 }
