@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-PostgreSQL",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -233,5 +232,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-PostgreSQL"
 }

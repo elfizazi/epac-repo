@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-MDFC-SQL-DefenderSQL-DCR",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -456,5 +455,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-MDFC-SQL-DefenderSQL-DCR"
 }

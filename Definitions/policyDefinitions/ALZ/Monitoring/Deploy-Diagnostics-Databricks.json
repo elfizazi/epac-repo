@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-Diagnostics-Databricks",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -265,5 +264,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-Diagnostics-Databricks"
 }
