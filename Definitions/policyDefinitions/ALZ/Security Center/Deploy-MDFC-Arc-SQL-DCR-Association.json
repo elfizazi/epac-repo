@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-MDFC-Arc-SQL-DCR-Association",
   "properties": {
     "policyType": "Custom",
     "mode": "Indexed",
@@ -193,5 +192,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-MDFC-Arc-SQL-DCR-Association"
 }

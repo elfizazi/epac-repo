@@ -1,5 +1,4 @@
 {
-  "name": "Deploy-UserAssignedManagedIdentity-VMInsights",
   "properties": {
     "displayName": "Deploy User Assigned Managed Identity for VM Insights",
     "policyType": "Custom",
@@ -397,5 +396,6 @@
         }
       }
     }
-  }
+  },
+  "name": "Deploy-UserAssignedManagedIdentity-VMInsights"
 }
